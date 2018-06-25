@@ -1,7 +1,7 @@
 # TDT_matlab_tools 
 
 
-Matlab-based tool to process neurophysiological data collected with Tucker-Davis Technologies (TDT) device.
+Matlab-based tool to process neurophysiological data collected using Tucker-Davis Technologies (TDT) device.
 
 Shaobo Guan, developed at Sheinberg lab at Brown University
 2017-05-01
@@ -109,7 +109,7 @@ When I stared using laminar prboes, I feel that it is necesary to plot the profi
 That's it.
 
 
-GGHF (good luck and have fun!)
+GLHF (good luck and have fun!)
 
 
 
